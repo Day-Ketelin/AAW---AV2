@@ -8,6 +8,21 @@ A aplicação criada é um sistema de autenticação, onde os usuários podem ac
 
 Assim, é possível implementar um sistema de autenticação e autorização de usuário utilizando Java, MongoDB e JWT (JSON Web Token).
 
+***Link do Projeto:*** **<https://github.com/Day-Ketelin/AAW---AV2>**
+#
+
+
+# Diagrama Lógico
+
+Diagrama com os pacotes, endpoints, dependências e organização dos arquivos utilizados na construção do projeto, de modo a prover maior segurança e praticidade dos métodos utilizados:
+
+![](https://github.com/Day-Ketelin/AAW---AV2/blob/cd70f9f98297a42ecdf9579a70d04ae50661553a/Imagens/Diagrama%20-%20Figma.png)
+
+**URL Figma:** *<https://www.figma.com/board/bI5zRlVWnypTae4HvHkitR/Architecture-Diagram-Example---Multiplayer-(Community)?node-id=0-1&t=lguz5nAd9rqA8KxG-0>*
+
+##
+
+
 ##  Implementação de Autenticação com JWT
 
 |Requisitos|    Descrição        |
@@ -57,19 +72,6 @@ Antes de permitir o acesso a um recurso protegido, é validado o token JWT envia
 
 #
 
-***Link do Projeto:*** **<https://github.com/Day-Ketelin/AAW---AV2>**
-#
-
-
-# Diagrama Lógico
-
-Diagrama com os pacotes, endpoints, dependências e organização dos arquivos utilizados na construção do projeto, de modo a prover maior segurança e praticidade dos métodos utilizados:
-
-![](https://github.com/Day-Ketelin/AAW---AV2/blob/cd70f9f98297a42ecdf9579a70d04ae50661553a/Imagens/Diagrama%20-%20Figma.png)
-
-**URL Figma:** *<https://www.figma.com/board/bI5zRlVWnypTae4HvHkitR/Architecture-Diagram-Example---Multiplayer-(Community)?node-id=0-1&t=lguz5nAd9rqA8KxG-0>*
-
-##
 
 
 #
@@ -108,4 +110,3 @@ Diagrama com os pacotes, endpoints, dependências e organização dos arquivos u
 ⚠️🛠️🛠️🛠️⭐⭐⭐🛠️🛠️🛠️⚠️
 
 
-# Liguagem - Java
