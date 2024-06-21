@@ -25,11 +25,11 @@ Diagrama com os pacotes, endpoints, dependências e organização dos arquivos u
 
 ##  Implementação de Autenticação com JWT
 
-|Requisitos|    Descrição        |
-|---------:|---------------------|
-|     1    | Cadastro de Usuário |
-|     2    | Login Seguro        |
-|     3    |Geração de Token JWT |
+|Requisitos|    Descrição         |
+|---------:|--------------------- |
+|     1    | Cadastro de Usuário  |
+|     2    | Login Seguro         |
+|     3    | Geração de Token JWT |
 
 **Cadastro de Usuário**
 Os usuários podem se cadastrar na plataforma fornecendo informações como nome de usuário, senha e tipo de conta, com os roles: USER, ADMIN ou GESTOR. 
@@ -88,6 +88,8 @@ Antes de permitir o acesso a um recurso protegido, é validado o token JWT envia
 >spring-boot-starter-web: Para criar uma aplicação web usando Spring Boot.
 >
 >spring-boot-starter-data-mongodb: Para integração com o MongoDB.
+>
+>Para inplementação das configurações de segurança.
 >
 >jjwt: Para geração e validação de JWTs.
 
