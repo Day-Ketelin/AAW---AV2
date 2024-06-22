@@ -1,5 +1,16 @@
 # AAW---AV2
 
+#
+
+**Github:** **[@Day-Ketelin](https://github.com/Day-Ketelin)**
+
+**Email:** **dayaneketelin@hotmail.com**
+
+**Linkked-in:** **[Dayane Ketelin](https://www.linkedin.com/in/dayane-ketelin)**
+
+
+#
+
 # Sistema de Autenticação e Autorização
 
 Projeto acadêmico criado para avaliação junto à disciplina de Arquitetura de Aplicações Web - professor João Paulo Aramuni,do Centro Universitário Newton Paiva, produzido em Java e com a compilação pela plataforma IntelliJ IDEA.
@@ -18,7 +29,7 @@ Diagrama com os pacotes, endpoints, dependências e organização dos arquivos u
 
 ![](https://github.com/Day-Ketelin/AAW---AV2/blob/cd70f9f98297a42ecdf9579a70d04ae50661553a/Imagens/Diagrama%20-%20Figma.png)
 
-**URL Figma:** *<https://www.figma.com/board/bI5zRlVWnypTae4HvHkitR/Architecture-Diagram-Example---Multiplayer-(Community)?node-id=0-1&t=lguz5nAd9rqA8KxG-0>*
+**URL Figma:** *[Diagrama da Aplicação](https://www.figma.com/board/bI5zRlVWnypTae4HvHkitR/Architecture-Diagram-Example---Multiplayer-(Community)?node-id=0-1&t=lguz5nAd9rqA8KxG-0)*
 
 ##
 
@@ -77,7 +88,7 @@ Antes de permitir o acesso a um recurso protegido, é validado o token JWT envia
 #
 
 # Funcionamento da aplicação e verificação das requisições:
-![](https://localhost:8080.gif)
+![](https://github.com/Day-Ketelin/AAW---AV2/blob/main/Imagens/Trabalho%20AV2%20-%20Prova.gif)
 
 
 ### Linguagem utilizada: JAVA
@@ -97,12 +108,11 @@ Antes de permitir o acesso a um recurso protegido, é validado o token JWT envia
 
 ## Prints do Projeto
 
-![](https://github.com/Day-Ketelin/AAW---AV2/blob/main/Imagens/Application.png)
+![](https://github.com/Day-Ketelin/Prova-AV2---40/blob/main/Imagens/JwtUtil.png)
 
 ###
 
-![](https://github.com/Day-Ketelin/AAW---AV2/blob/main/Imagens/Login.png)
-
+![](https://github.com/Day-Ketelin/AAW---AV2/blob/main/Imagens/Autentica%C3%A7%C3%A3o.png)
 #
 
 
